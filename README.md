@@ -1,1 +1,1 @@
-# Predicting English Premier League match results with Machine Learning
+# Predicting English Premier League match results using ML algorithms
